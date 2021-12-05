@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f509b0c4-d540-414e-bad0-4d0f3d4200f3" name="Changes" comment="Add dj_database_url">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycalendar/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/story/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AgileSprite-RESTful-API-Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AgileSprite-RESTful-API-Server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f509b0c4-d540-414e-bad0-4d0f3d4200f3" name="Changes" comment="Config Heroku Postgres">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/story/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/story/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +90,7 @@
       <workItem from="1637230388398" duration="1979000" />
       <workItem from="1637473294196" duration="6096000" />
       <workItem from="1638459808023" duration="3129000" />
-      <workItem from="1638614507826" duration="1880000" />
+      <workItem from="1638614507826" duration="4106000" />
     </task>
     <task id="LOCAL-00001" summary="Ini">
       <created>1638461524610</created>
@@ -121,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638463476404</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Config Heroku Postgres">
+      <created>1638632835697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638632835697</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ini" />
     <MESSAGE value="Add Release Phase to Procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Release Phase to Procfile" />
+    <MESSAGE value="Config Heroku Postgres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config Heroku Postgres" />
   </component>
 </project>

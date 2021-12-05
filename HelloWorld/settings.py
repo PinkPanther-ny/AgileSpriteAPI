@@ -24,11 +24,13 @@ SECRET_KEY = 'django-insecure-z1cu@+&y3g7@(i55qw5n#h03l2b&ba8a1n!6@w2dm=+#5(h6xx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '127.0.0.1',
-    'localhost',
-    'agilespritebackend.herokuapp.com',
-]
+# ALLOWED_HOSTS = [
+#     '127.0.0.1',
+#     'localhost',
+#     'agilespritebackend.herokuapp.com',
+# ]
+
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
