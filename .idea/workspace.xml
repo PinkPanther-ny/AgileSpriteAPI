@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f509b0c4-d540-414e-bad0-4d0f3d4200f3" name="Changes" comment="Config Heroku Postgres">
+    <list default="true" id="f509b0c4-d540-414e-bad0-4d0f3d4200f3" name="Changes" comment="Config ALLOWED_HOSTS to all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,7 @@
       <workItem from="1637473294196" duration="6096000" />
       <workItem from="1638459808023" duration="3129000" />
       <workItem from="1638614507826" duration="4106000" />
+      <workItem from="1638723762971" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="Ini">
       <created>1638461524610</created>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638632835697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Config ALLOWED_HOSTS to all">
+      <created>1638723816713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638723816713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +142,7 @@
     <MESSAGE value="Ini" />
     <MESSAGE value="Add Release Phase to Procfile" />
     <MESSAGE value="Config Heroku Postgres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config Heroku Postgres" />
+    <MESSAGE value="Config ALLOWED_HOSTS to all" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config ALLOWED_HOSTS to all" />
   </component>
 </project>
