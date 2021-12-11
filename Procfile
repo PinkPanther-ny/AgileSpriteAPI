@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn HelloWorld.wsgi
+web: gunicorn AgileSpriteAPI.wsgi

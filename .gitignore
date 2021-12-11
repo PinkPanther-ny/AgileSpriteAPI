@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+static
+.idea/
 .Python
 build/
 develop-eggs/
@@ -59,7 +61,7 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-#db.sqlite3
+db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
@@ -124,3 +126,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+0001_initial.py
