@@ -4,3 +4,4 @@ django-rest-auth
 gunicorn
 dj-database-url
 psycopg2
+pytz
